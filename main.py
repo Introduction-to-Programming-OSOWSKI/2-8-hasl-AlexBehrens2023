@@ -4,7 +4,6 @@ def hasL(w):
         if w[i] == "l":
             return True
         
-        return False
+    return False   
         
-        
-print(hasL("ho"))
+print(hasL("hi"))
